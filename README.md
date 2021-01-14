@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on app for tracking mood of a person
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on open source project
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with open source project
 - 📫 How to reach me: https://www.linkedin.com/in/jessicacotrina/
 - 😄 Pronouns: she, her
