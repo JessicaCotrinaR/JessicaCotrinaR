@@ -1,7 +1,7 @@
 ### Hi, I'm Jessica 👩🏻‍💼
 ![](https://github.com/JessicaCotrinaR/RentApp/blob/master/app/assets/me.png)
 
-- 🔭 I’m currently working on app for tracking mood of a person
+- 🔭 I’m currently working on tracking mood app
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: https://www.linkedin.com/in/jessicacotrina/
